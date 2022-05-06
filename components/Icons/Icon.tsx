@@ -44,7 +44,7 @@ interface IconProps {
   onClick?: () => void
 }
 
-const iconLookup: { [unit: string]: IconProp } = {
+const iconLookup: { [unit: string]: any } = {
   faArrowLeft: faArrowLeft,
   faBookmark: faBookmark,
   faCheck: faCheck,
