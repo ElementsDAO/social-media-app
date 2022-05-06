@@ -12,7 +12,7 @@
     "precommit": "npm run lint-build",
     "validate": "npm run precommit",
     "prepare": "husky install",
-    "prepare-deploy": "next build && next export"
+    "prepare-deploy": "BASE_PATH='/social-media-app' next build && next export"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
