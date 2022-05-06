@@ -3,24 +3,24 @@
     <title>Artboard</title>
     <defs>
         <linearGradient x1="-3.62905002e-05%" y1="49.9987135%" x2="100.016588%" y2="49.9987135%" id="linearGradient-1">
-            <stop stop-color="#332371" offset="0%"></stop>
-            <stop stop-color="#4A1089" offset="28%"></stop>
-            <stop stop-color="#4510AA" offset="64%"></stop>
-            <stop stop-color="#211A41" offset="100%"></stop>
+            <stop stop-color="#278c6d" offset="0%"></stop>
+            <stop stop-color="#278c6d" offset="28%"></stop>
+            <stop stop-color="#278c6d" offset="64%"></stop>
+            <stop stop-color="#278c6d" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="-0.910132134%" y1="-1.53134493%" x2="104.178691%" y2="104.861349%" id="linearGradient-2">
-            <stop stop-color="#C161FF" offset="5%"></stop>
-            <stop stop-color="#594CC5" offset="46%"></stop>
-            <stop stop-color="#0043AC" offset="100%"></stop>
+            <stop stop-color="#278c6d" offset="5%"></stop>
+            <stop stop-color="#278c6d" offset="46%"></stop>
+            <stop stop-color="#278c6d" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="80.8587332%" y1="85.4677944%" x2="-2.11864833%" y2="0.52374204%" id="linearGradient-3">
-            <stop stop-color="#C161FF" offset="5%"></stop>
-            <stop stop-color="#594CC5" offset="46%"></stop>
-            <stop stop-color="#0043AC" offset="100%"></stop>
+            <stop stop-color="#278c6d" offset="5%"></stop>
+            <stop stop-color="#278c6d" offset="46%"></stop>
+            <stop stop-color="#278c6d" offset="100%"></stop>
         </linearGradient>
         <linearGradient x1="-0.433232915%" y1="60.3183531%" x2="101.030591%" y2="41.0409801%" id="linearGradient-4">
-            <stop stop-color="#9AE7FF" offset="0%"></stop>
-            <stop stop-color="#52B5C5" offset="100%"></stop>
+            <stop stop-color="#278c6d" offset="0%"></stop>
+            <stop stop-color="#278c6d" offset="100%"></stop>
         </linearGradient>
     </defs>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">

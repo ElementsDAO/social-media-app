@@ -167,7 +167,7 @@
   @apply px-0 md:px-4;
 }
 .buttonDecensored {
-  @apply bg-highlight-900 text-white hover:bg-purple-800;
+  @apply bg-gradient text-white hover:bg-purple-800;
 }
 .buttonDecensoredInvert {
   @apply bg-purple-800 text-white hover:bg-highlight-900;

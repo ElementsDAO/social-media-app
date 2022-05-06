@@ -9,8 +9,8 @@ interface SeoProps {
 }
 
 const Seo: FunctionComponent<SeoProps> = ({
-  title = 'Decensored',
-  description = 'Decentralised Web3 Social Media. Powered by IOTA. Owned by You.',
+  title = 'Elements',
+  description = 'Renewable Energy for a better future.',
   author,
   image = 'https://decensored.app/social/shareimage.webp',
 }) => (

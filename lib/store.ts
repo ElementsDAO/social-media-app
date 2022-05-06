@@ -4,8 +4,8 @@ import type { LoadingProgressType, NodeInfoType, PostType, SpaceType, UserType }
 
 export const STORE_VERSION = 13
 
-export const DEFAULT_EVMNODE = 'https://hh.addiota.com'
-export const DEFAULT_CONTRACTSADDRESS = '0xEC157C2eDea881192931E28fd4E7384496bf3eB7'
+export const DEFAULT_EVMNODE = 'https://evm.wasp.sc.iota.org'
+export const DEFAULT_CONTRACTSADDRESS = '0x0Ebf9cdb85F8bbbbf2e23DbFCEA6747b49eA6ed1'
 
 export type StateType = {
   storeVersion: number

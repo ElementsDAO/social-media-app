@@ -21,9 +21,9 @@ html {
 html {
   .bg-gradient,
   &.dark .dark\:bg-gradient {
-    background-color: #3833a4;
-    background: rgb(57, 56, 161);
-    background: linear-gradient(45deg, rgba(57, 56, 161, 1) 0%, rgba(57, 56, 161, 1) 35%, rgba(89, 56, 161, 1) 100%);
+    background-color: #278c6d;
+    background: rgb(39, 140, 109);
+    background: linear-gradient(45deg, rgb(39, 140, 109) 0%, rgb(39, 140, 109) 35%, rgb(39, 140, 109) 100%);
   }
 }
 
