@@ -37,12 +37,12 @@ const Header: FunctionComponent = () => {
               <Icon icon='faArrowLeft' />
             </button>
           )}
-          {isRoot && <img alt='Elements Logo' src='/logo/ele_logo_symbol.svg' />}
+          {isRoot && <img alt='Elements Logo' src='logo/ele_logo_symbol.svg' />}
         </div>
         <Link href='/' passHref>
           <img
             alt='Elements Logo'
-            src='/logo/ele_logo.svg'
+            src='logo/ele_logo.svg'
             style={{ width: '100%', height: '42px', marginLeft: '-50px' }}
             className='h-[20px] cursor-pointer'
           />
