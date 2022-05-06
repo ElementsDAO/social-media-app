@@ -66,7 +66,10 @@ export const getAllSpaces = async (contract: any) => {
 export const createSpace = async (contract: any, name: string, description: string) => {
   log(`CreateSpace ${name}`)
   try {
-    await executeContractFunction(contract.web3, contract.spaces.methods.create(name, description))
+    const x = await executeContractFunction(
+      contract.web3,
+      contract.spaces.methods.create(name, description, '0x0000000000000000000000000000000000000000')
+    )
     return { success: true }
   } catch (error) {
     return { success: false, error: readableError(error) }
